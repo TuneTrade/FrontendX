@@ -1,29 +1,28 @@
-# tunetrade-frontendx
+# FrontendX
 
-## Project setup
+A rewrite of the TuneTrade frontend.
+
+### Project Setup
 ```
 npm install
 ```
 
-### Compiles and hot-reloads for development
+### Compile and Hot-Reload
 ```
 npm run serve
 ```
 
-### Compiles and minifies for production
+### Compile and Minify
 ```
 npm run build
 ```
 
-### Run your tests
+### Run Tests
 ```
 npm run test
 ```
 
-### Lints and fixes files
+### Lint Files
 ```
 npm run lint
 ```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
