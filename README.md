@@ -9,8 +9,13 @@ npm install
 
 ### Compile and Hot-Reload
 ```
+cd public
+git clone https://github.com/TuneTrade/ModulesX
+mv ModulesX modules
+cd ..
 npm run serve
 ```
+The backend will always serve its copy of ModulesX. You must make sure your copy is updated yourself.
 
 ### Compile and Minify
 ```
